@@ -440,6 +440,38 @@ dimwishlist:item=407511664&perks=839105230,1561002382,1523832109,3078487919
 dimwishlist:item=407511664&perks=839105230,1561002382,1523832109,365154968
 
 
+// Song of Ir Yût (Adept) - Barrel ()
+//notes: MW: Handling
+dimwishlist:item=407511664&perks=1840239774,3418782618,3078487919
+dimwishlist:item=407511664&perks=1840239774,3418782618,365154968
+dimwishlist:item=407511664&perks=1840239774,1523832109,3078487919
+dimwishlist:item=407511664&perks=1840239774,1523832109,365154968
+dimwishlist:item=407511664&perks=839105230,3418782618,3078487919
+dimwishlist:item=407511664&perks=839105230,3418782618,365154968
+dimwishlist:item=407511664&perks=839105230,1523832109,3078487919
+dimwishlist:item=407511664&perks=839105230,1523832109,365154968
+
+
+// Song of Ir Yût (Adept) - Mag ()
+//notes: MW: Handling
+dimwishlist:item=407511664&perks=2420895100,3418782618,3078487919
+dimwishlist:item=407511664&perks=2420895100,3418782618,365154968
+dimwishlist:item=407511664&perks=2420895100,1523832109,3078487919
+dimwishlist:item=407511664&perks=2420895100,1523832109,365154968
+dimwishlist:item=407511664&perks=1561002382,3418782618,3078487919
+dimwishlist:item=407511664&perks=1561002382,3418782618,365154968
+dimwishlist:item=407511664&perks=1561002382,1523832109,3078487919
+dimwishlist:item=407511664&perks=1561002382,1523832109,365154968
+
+
+// Song of Ir Yût (Adept) - Perks ()
+//notes: MW: Handling
+dimwishlist:item=407511664&perks=3418782618,3078487919
+dimwishlist:item=407511664&perks=3418782618,365154968
+dimwishlist:item=407511664&perks=1523832109,3078487919
+dimwishlist:item=407511664&perks=1523832109,365154968
+
+
 // Darkest Before - All (god-pve)
 //notes: MW: Handling tags:god-pve
 dimwishlist:item=435821040&perks=839105230,1561002382,3017780555,4293542123
@@ -514,7 +546,22 @@ dimwishlist:item=496556698&perks=3700496672,3365897133
 
 // Nessa's Oblation (Adept) - All ()
 //notes: MW: Range or Handling
-dimwishlist:item=522366885&perks=4090651448,791862061,968510818,1546637391
+dimwishlist:item=522366885&perks=1840239774,791862061,968510818,1546637391
+
+
+// Nessa's Oblation (Adept) - Barrel ()
+//notes: MW: Range or Handling
+dimwishlist:item=522366885&perks=1840239774,968510818,1546637391
+
+
+// Nessa's Oblation (Adept) - Mag ()
+//notes: MW: Range or Handling
+dimwishlist:item=522366885&perks=791862061,968510818,1546637391
+
+
+// Nessa's Oblation (Adept) - Perks ()
+//notes: MW: Range or Handling
+dimwishlist:item=522366885&perks=968510818,1546637391
 
 
 // The Mountaintop - All ()
@@ -940,6 +987,21 @@ dimwishlist:item=959037361&perks=968510818,3324494224
 // Adjudicator - All ()
 //notes: MW: Range
 dimwishlist:item=1013434963&perks=1482024992,106909392,1820235745,95528736
+
+
+// Adjudicator - Barrel ()
+//notes: MW: Range
+dimwishlist:item=1013434963&perks=1482024992,1820235745,95528736
+
+
+// Adjudicator - Mag ()
+//notes: MW: Range
+dimwishlist:item=1013434963&perks=106909392,1820235745,95528736
+
+
+// Adjudicator - Perks ()
+//notes: MW: Range
+dimwishlist:item=1013434963&perks=1820235745,95528736
 
 
 // Perses-D - All (god-pve)
@@ -2181,8 +2243,24 @@ dimwishlist:item=1866778462&perks=3300816228,3927722942
 //notes: MW: Range
 dimwishlist:item=1941816543&perks=1482024992,106909392,3643424744,4104185692
 dimwishlist:item=1941816543&perks=1482024992,106909392,3643424744,4082225868
-dimwishlist:item=1941816543&perks=1482024992,1087426260,3643424744,4104185692
-dimwishlist:item=1941816543&perks=1482024992,1087426260,3643424744,4082225868
+
+
+// Submission (Adept) - Barrel ()
+//notes: MW: Range
+dimwishlist:item=1941816543&perks=1482024992,3643424744,4104185692
+dimwishlist:item=1941816543&perks=1482024992,3643424744,4082225868
+
+
+// Submission (Adept) - Mag ()
+//notes: MW: Range
+dimwishlist:item=1941816543&perks=106909392,3643424744,4104185692
+dimwishlist:item=1941816543&perks=106909392,3643424744,4082225868
+
+
+// Submission (Adept) - Perks ()
+//notes: MW: Range
+dimwishlist:item=1941816543&perks=3643424744,4104185692
+dimwishlist:item=1941816543&perks=3643424744,4082225868
 
 
 // Truthteller - All ()
@@ -2319,6 +2397,23 @@ dimwishlist:item=2187717691&perks=1840239774,2420895100,968510818,365154968
 dimwishlist:item=2187717691&perks=1840239774,1561002382,968510818,365154968
 dimwishlist:item=2187717691&perks=839105230,2420895100,968510818,365154968
 dimwishlist:item=2187717691&perks=839105230,1561002382,968510818,365154968
+
+
+// Circular Logic - Barrel ()
+//notes: MW: Handling
+dimwishlist:item=2187717691&perks=1840239774,968510818,365154968
+dimwishlist:item=2187717691&perks=839105230,968510818,365154968
+
+
+// Circular Logic - Mag ()
+//notes: MW: Handling
+dimwishlist:item=2187717691&perks=2420895100,968510818,365154968
+dimwishlist:item=2187717691&perks=1561002382,968510818,365154968
+
+
+// Circular Logic - Perks ()
+//notes: MW: Handling
+dimwishlist:item=2187717691&perks=968510818,365154968
 
 
 // Edge Transit - All ()
@@ -3693,8 +3788,26 @@ dimwishlist:item=3612338554&perks=1523832109,1546637391
 
 // First In, Last Out - All ()
 //notes: MW: Range or Handling
-dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,1546637391
-dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,3708227201
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,3708227201
+
+
+// First In, Last Out - Barrel ()
+//notes: MW: Range or Handling
+dimwishlist:item=3616586446&perks=1840239774,3300816228,1546637391
+dimwishlist:item=3616586446&perks=1840239774,3300816228,3708227201
+
+
+// First In, Last Out - Mag ()
+//notes: MW: Range or Handling
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
+dimwishlist:item=3616586446&perks=791862061,3300816228,3708227201
+
+
+// First In, Last Out - Perks ()
+//notes: MW: Range or Handling
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+dimwishlist:item=3616586446&perks=3300816228,3708227201
 
 
 // Stormchaser - All ()

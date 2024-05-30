@@ -28,7 +28,7 @@ For non-adept crafted weapons consult [Best In Slot Gear You Need Before Final S
 > [!TIP]
 > If you want thumbs up only from this wishlist you need to click "Clear Wish List" button before adding it.
 
-Copy raw link [Wishlist link](https://raw.githubusercontent.com/RainaTaleth/mini-dim-wish-list/main/bis_wishlist.txt) and paste it in the "Add another wish list" section in [DIM settings](https://app.destinyitemmanager.com/settings#wishlist)
+Copy raw link [Wishlist link](https://raw.githubusercontent.com/RainaTaleth/mini-dim-wish-list/master/bis_wishlist.txt) and paste it in the "Add another wish list" section in [DIM settings](https://app.destinyitemmanager.com/settings#wishlist)
 
 ## Modifying wish list (your local copy)
 You can import this list into [Wishlist Manager](https://wishlists.littlelight.club) and add your own wishlist items.

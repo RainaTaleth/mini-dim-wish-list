@@ -4030,6 +4030,26 @@ dimwishlist:item=3782662983&perks=3017780555,4293542123
 dimwishlist:item=3782662983&perks=3017780555,31345821
 
 
+// Elsie's Rifle - All: "Perfect Elsie's" - Art ()
+//notes: MW: Range
+dimwishlist:item=3851176026&perks=1482024992,1561002382,2387244414,2109543898
+
+
+// Elsie's Rifle - Barrel: "Perfect Elsie's" - Art ()
+//notes: MW: Range
+dimwishlist:item=3851176026&perks=1482024992,2387244414,2109543898
+
+
+// Elsie's Rifle - Mag: "Perfect Elsie's" - Art ()
+//notes: MW: Range
+dimwishlist:item=3851176026&perks=1561002382,2387244414,2109543898
+
+
+// Elsie's Rifle - Perks: "Perfect Elsie's" - Art ()
+//notes: MW: Range
+dimwishlist:item=3851176026&perks=2387244414,2109543898
+
+
 // Wendigo GL3 (Adept) - All ()
 //notes: MW: Handling (if Full Court) or Velocity
 dimwishlist:item=3915197957&perks=3525010810,3301904089,2284787283,3194351027

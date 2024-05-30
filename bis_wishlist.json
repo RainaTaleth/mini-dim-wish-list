@@ -8271,6 +8271,74 @@
                 ]
             ],
             "tags": []
+        },
+        {
+            "description": "MW: Range",
+            "hash": 3851176026,
+            "name": "All: \"Perfect Elsie's\" - Art",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    1561002382
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    2109543898
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "MW: Range",
+            "hash": 3851176026,
+            "name": "Barrel: \"Perfect Elsie's\" - Art",
+            "plugs": [
+                [
+                    1482024992
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    2109543898
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "MW: Range",
+            "hash": 3851176026,
+            "name": "Mag: \"Perfect Elsie's\" - Art",
+            "plugs": [
+                [
+                    1561002382
+                ],
+                [
+                    2387244414
+                ],
+                [
+                    2109543898
+                ]
+            ],
+            "tags": []
+        },
+        {
+            "description": "MW: Range",
+            "hash": 3851176026,
+            "name": "Perks: \"Perfect Elsie's\" - Art",
+            "plugs": [
+                [
+                    2387244414
+                ],
+                [
+                    2109543898
+                ]
+            ],
+            "tags": []
         }
     ]
 }
